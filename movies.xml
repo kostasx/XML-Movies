@@ -1,0 +1,44 @@
+<movies>
+    <movie>
+        <title>Toy Story</title>
+        <year>1995</year>
+        <genre>Animation,Comedy</genre>
+        <director>John Lasseter</director>
+    </movie>
+    <movie>
+        <title> Interstellar</title>
+        <year> 2014</year>
+        <genre>Adventure</genre>
+        <director> Christopher Nolan</director>
+    </movie>
+    <movie>
+        <title>Monsters, Inc.</title>
+        <year>2001</year>
+        <genre>Animation,Comedy</genre>
+        <director>Pete Docter, David Silverman (co-director)</director>
+    </movie>
+    <movie>
+        <title>The Matrix</title>
+        <year>1999</year>
+        <genre>Action, Sci-Fi</genre>
+        <director>Lana Wachowski, Lilly Wachowski</director>
+    </movie>
+    <movie>
+        <title>A separation</title>
+        <year>2011</year>
+        <genre>Drama</genre>
+        <director>Asghar Farhadi</director>
+    </movie>
+    <movie>
+        <title>Seven</title>
+        <year>1995</year>
+        <genre>Crime</genre>
+        <director>Davie Fincher</director>
+    </movie>
+    <movie>
+        <title>A Clockwork Orange</title>
+        <year>1971</year>
+        <genre> Crime, Drama, Sci-Fi </genre>
+        <director> Stanley Kubrick </director>
+    </movie>
+</movies>
